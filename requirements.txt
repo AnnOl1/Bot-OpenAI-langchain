@@ -1,0 +1,5 @@
+langchain==0.0.352
+openai==1.6.1
+click==8.1.7
+telebot==0.0.5
+sklearn==0.0
